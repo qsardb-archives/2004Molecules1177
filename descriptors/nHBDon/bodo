@@ -1,7 +1,0 @@
-!!net.sf.blueobelisk.BODODescriptor
-ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#hBondDonors
-implementations:
-- identifier: '$Id: ea8ebe900258768fabbf564d44950f9bd5eaee9e $'
-  title: org.openscience.cdk.qsar.descriptors.molecular.HBondDonorCountDescriptor
-  vendor: The Chemistry Development Kit
-  parameters: {}

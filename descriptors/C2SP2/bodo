@@ -1,7 +1,0 @@
-!!net.sf.blueobelisk.BODODescriptor
-ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#carbonTypes
-implementations:
-- identifier: '$Id: ab88e6f55b258640c8da0c1cbb96d65a2c15ecac $'
-  title: org.openscience.cdk.qsar.descriptors.molecular.CarbonTypesDescriptor[C2SP2]
-  vendor: The Chemistry Development Kit
-  parameters: {}

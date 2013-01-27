@@ -1,7 +1,0 @@
-!!net.sf.blueobelisk.BODODescriptor
-ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#aromaticAtomsCount
-implementations:
-- identifier: '$Id: 122c842a0d7a3eae150af23dce53b4de3c9a1557 $'
-  title: org.openscience.cdk.qsar.descriptors.molecular.AromaticAtomsCountDescriptor
-  vendor: The Chemistry Development Kit
-  parameters: {checkAromaticity: false}
