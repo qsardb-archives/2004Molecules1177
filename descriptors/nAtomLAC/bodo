@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#longestAliphaticChain
+implementations:
+- identifier: '$Id: d2c403cbcc94d68f3439bc2d3623167490f93d3e $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.LongestAliphaticChainDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {checkRingSystem: false}

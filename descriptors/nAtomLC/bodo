@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#largestChain
+implementations:
+- identifier: '$Id: a0a6c356c6db8a667fe038be213d65a9be2a2fcb $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.LargestChainDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {checkAromaticity: false, checkRingSystem: false}

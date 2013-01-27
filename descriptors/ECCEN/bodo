@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#eccentricConnectivityIndex
+implementations:
+- identifier: '$Id: 7883f00fc9706ec50d2cb7d836f59788ac84c283 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.EccentricConnectivityIndexDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

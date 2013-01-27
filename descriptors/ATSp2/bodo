@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#autoCorrelationPolarizability
+implementations:
+- identifier: '$Id: 1fc52a1562663e39af64e1b4af4c23b9a103e526 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.AutocorrelationDescriptorPolarizability[ATSp2]
+  vendor: The Chemistry Development Kit
+  parameters: {}

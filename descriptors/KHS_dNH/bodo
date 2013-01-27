@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#kierHallSmarts
+implementations:
+- identifier: '$Id: c730bb3e9b9299263a46cabed75b40c02d8e127f $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.KierHallSmartsDescriptor[khs.dNH]
+  vendor: The Chemistry Development Kit
+  parameters: {}

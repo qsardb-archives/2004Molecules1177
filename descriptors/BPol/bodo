@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#bpol
+implementations:
+- identifier: '$Id: 866f2a966eb6ab070e2e838955ceeb48a02094fa $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.BPolDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

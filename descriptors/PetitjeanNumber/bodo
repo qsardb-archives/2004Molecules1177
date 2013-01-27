@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#petitjeanNumber
+implementations:
+- identifier: '$Id: 3ffc64e7500eb219d7d0e2eea7f4bd7125f3eb25 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.PetitjeanNumberDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

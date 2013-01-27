@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#mannholdLogP
+implementations:
+- identifier: '$Id: a7dbd2b4d7a6c5a8655395044adb4777d53afc21 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.MannholdLogPDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

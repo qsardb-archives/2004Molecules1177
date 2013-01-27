@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#rotatableBondsCount
+implementations:
+- identifier: '$Id: 75ae921845de8bd2afa9094077b54a7f8a79e4c1 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.RotatableBondsCountDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {includeTerminals: false}

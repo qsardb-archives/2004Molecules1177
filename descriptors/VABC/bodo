@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#vabc
+implementations:
+- identifier: '$Id: af968efc59ac3191fa1f13770f620844145fdb97 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.VABCDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

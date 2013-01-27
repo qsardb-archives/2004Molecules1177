@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#chiPath
+implementations:
+- identifier: '$Id: c08e389f50666cdeec7578b2c60e803823d78270 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.ChiPathDescriptor[VP-5]
+  vendor: The Chemistry Development Kit
+  parameters: {}

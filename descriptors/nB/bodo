@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#bondCount
+implementations:
+- identifier: '$Id: 4ab99dbfe795d438d8ce73a52bbc24fe8a95c7ad $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.BondCountDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {order: ''}

@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#fmf
+implementations:
+- identifier: '$Id: ff8c51c08c49fd2b981fbde4b36fe99f37cc68c5 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.FMFDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

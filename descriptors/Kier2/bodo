@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#kierValues
+implementations:
+- identifier: '$Id: 0b331ed23b92f1da3f6de66ceda1836c6acd6c6e $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.KappaShapeIndicesDescriptor[Kier2]
+  vendor: The Chemistry Development Kit
+  parameters: {}

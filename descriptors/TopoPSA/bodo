@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#tpsa
+implementations:
+- identifier: '$Id: 1dc933b46ab3db7d569a5ec12c050fccc1776504 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.TPSADescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {checkAromaticity: false}

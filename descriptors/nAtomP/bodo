@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#largestPiSystem
+implementations:
+- identifier: '$Id: eb659bf419bdddb058dfbb0388a588d72c8f2c54 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.LargestPiSystemDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {checkAromaticity: false}

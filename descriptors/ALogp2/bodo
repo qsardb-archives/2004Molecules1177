@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#ALOGP
+implementations:
+- identifier: '$Id: 6983492b91dd23cba8e3108ed2118fee300fb40b $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.ALOGPDescriptor[ALogp2]
+  vendor: The Chemistry Development Kit
+  parameters: {}

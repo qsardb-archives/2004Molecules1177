@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#weightedPath
+implementations:
+- identifier: '$Id: 33d8b0c3b45365eefe87fe9ff57ba735f46afb3e $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.WeightedPathDescriptor[WTPT-4]
+  vendor: The Chemistry Development Kit
+  parameters: {}

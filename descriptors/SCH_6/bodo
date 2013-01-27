@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#chiChain
+implementations:
+- identifier: '$Id: 48c66cd0ce6ad710871842260289aeb69ab75738 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.ChiChainDescriptor[SCH-6]
+  vendor: The Chemistry Development Kit
+  parameters: {}

@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#zagrebIndex
+implementations:
+- identifier: '$Id: 908bfc73fe9084a582eb003afbc28c5beab42196 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.ZagrebIndexDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

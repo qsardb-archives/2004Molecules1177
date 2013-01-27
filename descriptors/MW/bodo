@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#weight
+implementations:
+- identifier: '$Id: 9927243df29a118e9bfd0b8624bc8d77d3c6db07 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.WeightDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {elementSymbol: '*'}

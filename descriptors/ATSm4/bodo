@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#autoCorrelationMass
+implementations:
+- identifier: '$Id: 4902c851a7a219507b4014b3724e1aef66c41f0b $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.AutocorrelationDescriptorMass[ATSm4]
+  vendor: The Chemistry Development Kit
+  parameters: {}

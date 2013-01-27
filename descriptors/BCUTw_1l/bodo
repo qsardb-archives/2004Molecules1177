@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#BCUT
+implementations:
+- identifier: '$Id: 0ed0ec071708e230c314e0f7f5cc6a9258da654b $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.BCUTDescriptor[BCUTw-1l]
+  vendor: The Chemistry Development Kit
+  parameters: {nhigh: 1, nlow: 1, checkAromaticity: true}

@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#chiPathCluster
+implementations:
+- identifier: '$Id: 883b1d3cbc3c8e6f5092dedbdb4cff75611be1b1 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.ChiPathClusterDescriptor[VPC-4]
+  vendor: The Chemistry Development Kit
+  parameters: {}

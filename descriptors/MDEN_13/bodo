@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#mde
+implementations:
+- identifier: '$Id: 1d99a09ecb1db3b46a48d094a1a0a0812c8236df $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.MDEDescriptor[MDEN-13]
+  vendor: The Chemistry Development Kit
+  parameters: {}

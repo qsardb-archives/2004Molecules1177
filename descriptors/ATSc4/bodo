@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#autoCorrelationCharge
+implementations:
+- identifier: '$Id: d8fa3f43a231a43cfd24e4e78d67845e21e6f64b $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.AutocorrelationDescriptorCharge[ATSc4]
+  vendor: The Chemistry Development Kit
+  parameters: {}

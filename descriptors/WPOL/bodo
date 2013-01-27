@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#wienerNumbers
+implementations:
+- identifier: '$Id: 7c45b2968c4d93654ab1031b7e7d971c4b96ea1a $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.WienerNumbersDescriptor[WPOL]
+  vendor: The Chemistry Development Kit
+  parameters: {}

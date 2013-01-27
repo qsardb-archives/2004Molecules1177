@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#vAdjMa
+implementations:
+- identifier: '$Id: ef7f8da6bb5a4882a53fcfc61301cf709b104ec5 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.VAdjMaDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}

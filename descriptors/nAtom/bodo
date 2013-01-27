@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#atomCount
+implementations:
+- identifier: '$Id: 00cf7164a7d9466a6ba750a39036418b7fbebfd8 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.AtomCountDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {elementName: '*'}

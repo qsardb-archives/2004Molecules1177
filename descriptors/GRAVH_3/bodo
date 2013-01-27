@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#gravitationalIndex
+implementations:
+- identifier: '$Id: 941fc320ed46dcce639d9ad2aa98714baf0f0142 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.GravitationalIndexDescriptor[GRAVH-3]
+  vendor: The Chemistry Development Kit
+  parameters: {}

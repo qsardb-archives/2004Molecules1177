@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#lipinskifailures
+implementations:
+- identifier: $Id$
+  title: org.openscience.cdk.qsar.descriptors.molecular.RuleOfFiveDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {checkAromaticity: false}

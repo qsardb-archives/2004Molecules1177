@@ -1,0 +1,7 @@
+!!net.sf.blueobelisk.BODODescriptor
+ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#NilaComplexity
+implementations:
+- identifier: '$Id: 71cffc461b257b6a7826a4262d546003531bf110 $'
+  title: org.openscience.cdk.qsar.descriptors.molecular.FragmentComplexityDescriptor
+  vendor: The Chemistry Development Kit
+  parameters: {}
