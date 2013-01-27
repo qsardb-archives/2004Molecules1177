@@ -8,4 +8,12 @@
         <ModelId>1</ModelId>
         <Type>training</Type>
     </Prediction>
+    <Prediction>
+        <Id>2</Id>
+        <Name>Internal validation (LOO-CV)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <ModelId>1</ModelId>
+        <Type>validation</Type>
+    </Prediction>
 </PredictionRegistry>
