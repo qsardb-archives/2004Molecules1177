@@ -158,7 +158,7 @@
     </Compound>
     <Compound>
         <Id>27</Id>
-        <Name>3-M-2-pentanol</Name>
+        <Name>3-M-3-pentanol</Name>
         <Labels></Labels>
         <Cargos></Cargos>
     </Compound>
@@ -230,7 +230,7 @@
     </Compound>
     <Compound>
         <Id>39</Id>
-        <Name>3-E-3-hexanol</Name>
+        <Name>3-E-3-pentanol</Name>
         <Labels></Labels>
         <Cargos></Cargos>
     </Compound>
@@ -284,7 +284,7 @@
     </Compound>
     <Compound>
         <Id>48</Id>
-        <Name>2,3,3-MMM-3-pentanol</Name>
+        <Name>2,2,3-MMM-3-pentanol</Name>
         <Labels></Labels>
         <Cargos></Cargos>
     </Compound>
