@@ -1,7 +1,0 @@
-!!net.sf.blueobelisk.BODODescriptor
-ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#momentOfInertia
-implementations:
-- identifier: '$Id: c64636ae7f6d9abcd8c6e81d90715d1bb45a0ce9 $'
-  title: org.openscience.cdk.qsar.descriptors.molecular.MomentOfInertiaDescriptor[MOMI-YZ]
-  vendor: The Chemistry Development Kit
-  parameters: {}

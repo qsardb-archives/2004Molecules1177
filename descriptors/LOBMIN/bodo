@@ -1,7 +1,0 @@
-!!net.sf.blueobelisk.BODODescriptor
-ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#lengthOverBreadth
-implementations:
-- identifier: '$Id: 5b5b7b99c56e3181a145917f1e257e279e40d22a $'
-  title: org.openscience.cdk.qsar.descriptors.molecular.LengthOverBreadthDescriptor[LOBMIN]
-  vendor: The Chemistry Development Kit
-  parameters: {}

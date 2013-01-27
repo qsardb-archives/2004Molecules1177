@@ -1,7 +1,0 @@
-!!net.sf.blueobelisk.BODODescriptor
-ontologyReference: http://www.blueobelisk.org/ontologies/chemoinformatics-algorithms/#petitjeanShapeIndex
-implementations:
-- identifier: '$Id: 0b088508f8c24cb7fa83da021a7457af4f455500 $'
-  title: org.openscience.cdk.qsar.descriptors.molecular.PetitjeanShapeIndexDescriptor[geomShape]
-  vendor: The Chemistry Development Kit
-  parameters: {}
