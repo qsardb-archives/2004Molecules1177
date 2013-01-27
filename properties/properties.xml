@@ -3,6 +3,7 @@
     <Property>
         <Id>bp</Id>
         <Name>Boiling point</Name>
+        <Description>Normal boiling point. The temperature at which a liquid's vapor pressure equals 1 atm (101.325 kPa).</Description>
         <Endpoint>1. Physicochemical effects 1.2. Boiling point</Endpoint>
         <Labels></Labels>
         <Cargos>bibtex references ucum values</Cargos>
