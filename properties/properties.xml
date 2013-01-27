@@ -3,6 +3,7 @@
     <Property>
         <Id>bp</Id>
         <Name>Boiling point</Name>
+        <Endpoint>1. Physicochemical effects 1.2. Boiling point</Endpoint>
         <Labels></Labels>
         <Cargos>bibtex references ucum values</Cargos>
     </Property>
