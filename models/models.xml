@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModelRegistry xmlns="http://www.qsardb.org/QDB">
+    <Model>
+        <Id>1</Id>
+        <Name>All alcohols</Name>
+        <Labels></Labels>
+        <Cargos>pmml rds</Cargos>
+        <PropertyId>bp</PropertyId>
+    </Model>
+</ModelRegistry>

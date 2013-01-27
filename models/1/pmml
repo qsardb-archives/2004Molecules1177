@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PMML version="3.2" xmlns="http://www.dmg.org/PMML-3_2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dmg.org/PMML-3_2 http://www.dmg.org/v3-2/pmml-3-2.xsd">
+ <Header copyright="Copyright (c) 2013 Villu Ruusmann" description="Linear Regression Model">
+  <Extension name="user" value="Villu Ruusmann" extender="Rattle/PMML"/>
+  <Application name="Rattle/PMML" version="1.2.29"/>
+  <Timestamp>2013-01-27 13:54:01</Timestamp>
+ </Header>
+ <DataDictionary numberOfFields="2">
+  <DataField name="bp" optype="continuous" dataType="double"/>
+  <DataField name="SP_1" optype="continuous" dataType="double"/>
+ </DataDictionary>
+ <RegressionModel modelName="Linear_Regression_Model" functionName="regression" algorithmName="least squares" targetFieldName="bp">
+  <MiningSchema>
+   <MiningField name="bp" usageType="predicted"/>
+   <MiningField name="SP_1" usageType="active"/>
+  </MiningSchema>
+  <RegressionTable intercept="17.5525407795743">
+   <NumericPredictor name="SP_1" exponent="1" coefficient="37.2784912416731"/>
+  </RegressionTable>
+ </RegressionModel>
+</PMML>

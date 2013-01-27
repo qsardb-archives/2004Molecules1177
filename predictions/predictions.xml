@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PredictionRegistry xmlns="http://www.qsardb.org/QDB">
+    <Prediction>
+        <Id>1</Id>
+        <Name>Training</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <ModelId>1</ModelId>
+        <Type>training</Type>
+    </Prediction>
+</PredictionRegistry>
