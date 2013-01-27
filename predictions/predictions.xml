@@ -16,4 +16,12 @@
         <ModelId>1</ModelId>
         <Type>validation</Type>
     </Prediction>
+    <Prediction>
+        <Id>3</Id>
+        <Name>External validation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <ModelId>1</ModelId>
+        <Type>validation</Type>
+    </Prediction>
 </PredictionRegistry>
