@@ -4,6 +4,6 @@
         <Id>bp</Id>
         <Name>Boiling point</Name>
         <Labels></Labels>
-        <Cargos>values</Cargos>
+        <Cargos>bibtex values</Cargos>
     </Property>
 </PropertyRegistry>
