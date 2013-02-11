@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Archive xmlns="http://www.qsardb.org/QDB"/>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Regression model for the normal boiling point of aliphatic alcohols</Name>
+    <Description>Example QsarDB archive</Description>
+</Archive>
